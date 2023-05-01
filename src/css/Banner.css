@@ -1,0 +1,14 @@
+.banner_container{
+    background-color: #FDF5DF;
+    height: 310px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    margin-top: 20px;
+}
+
+.banner_text{
+    color: #1D7A0E;
+    font-family: 'Poppins', bold;
+    font-size: 48px;
+}

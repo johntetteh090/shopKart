@@ -1,0 +1,45 @@
+.products_container {
+  padding-inline: 20px;
+}
+
+.item {
+  background-color: #d9d9d9;
+  height: 170px;
+  width: 170px;
+  max-width: 170px;
+  border-radius: 15px;
+  /* background-image: url("../assets/jeans.png"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.checkbox {
+  float: right;
+  margin-right: 20px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+.items_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.item_info {
+  display: flex;
+  margin-top: -30px;
+  width: 160px;
+  justify-content: space-between;
+}
+
+.item_title {
+  font-family: "Poppins", bold;
+  font-size: 17px;
+  margin-left: 10px;
+}
+
+.item_price {
+  color: #1d7a0e;
+  font-family: "Poppins", bold;
+  font-size: 17px;
+}

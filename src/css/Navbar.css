@@ -1,0 +1,38 @@
+.navbar_container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.navbar_title{
+    font-family: 'Cursive','Lucida Handwriting' ;
+    color: #1D7A0E;
+    font-size: 42px;
+
+}
+
+.navbar_save{
+    border: none;
+    margin-left: 30px;
+    /* background-color: rgba(173, 171, 171, 0.38); */
+    padding: 7px 15px 7px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Poppins,bold';
+    color: white;
+    /* font-size: medium; */
+    background: rgba(0,0,0,0.8);
+}
+
+.navbar_delete{
+    border: none;
+    margin-left: 30px;
+    background-color: rgba(173, 171, 171, 0.80);
+    padding: 7px 15px 7px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Poppins,bold';
+    color: white;
+    /* background-color: black; */
+}
