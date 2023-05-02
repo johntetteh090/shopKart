@@ -15,7 +15,6 @@ function AddEditProduct() {
   const [size, setSize] = useState("");
   const [image, setImage] = useState("");
 
-  
   //useProduct Hook
   const { saveProduct } = useProduct();
 
@@ -39,9 +38,7 @@ function AddEditProduct() {
     <div className="container_section">
       <div className="header_section">
         <div className="header_title">
-          <h4 className="header-text">
-            Brands
-          </h4>
+          <h4 className="header-text">Brands</h4>
           <h4 className="header-text">About</h4>
         </div>
         <div>
@@ -170,10 +167,7 @@ function AddEditProduct() {
             </div>
           </div>
         ) : null}
-
-        
       </div>
-     
     </div>
   );
 }
