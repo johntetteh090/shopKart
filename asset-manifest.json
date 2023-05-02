@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shopKart/static/css/main.45cc6f35.css",
+    "main.js": "/shopKart/static/js/main.44964990.js",
+    "static/js/787.6d694c4a.chunk.js": "/shopKart/static/js/787.6d694c4a.chunk.js",
+    "static/media/jeans.png": "/shopKart/static/media/jeans.0626b7c7263f6a52ed99.png",
+    "static/media/girl.png": "/shopKart/static/media/girl.c3f97f4b5e66f9bfbf52.png",
+    "static/media/shirt.png": "/shopKart/static/media/shirt.c3f97f4b5e66f9bfbf52.png",
+    "static/media/girlmusic.png": "/shopKart/static/media/girlmusic.a94248c916031cb15052.png",
+    "static/media/jordan.png": "/shopKart/static/media/jordan.0e9a2354b5774ad7ea69.png",
+    "index.html": "/shopKart/index.html",
+    "main.45cc6f35.css.map": "/shopKart/static/css/main.45cc6f35.css.map",
+    "main.44964990.js.map": "/shopKart/static/js/main.44964990.js.map",
+    "787.6d694c4a.chunk.js.map": "/shopKart/static/js/787.6d694c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45cc6f35.css",
+    "static/js/main.44964990.js"
+  ]
+}
